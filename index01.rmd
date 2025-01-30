@@ -1,0 +1,25 @@
+---
+title: "Erika Ordoñez Guzmán"
+image: "foto_Erika.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/erikaordon"
+  - label: Email
+    url: "mailto:erikaog@lcg.unam.mx"
+output:
+  postcards::trestles
+---
+
+## About my self
+
+I am an undergraduate study at <a href="https://www.ccg.unam.mx/"><span style="color:  #b433ff;"> *Centro de Ciencias Genómicas*</span></a>, UNAM. I am interested on things related to bioinformatics, data science and machine learning. I enjoy programming during free time, specially in R and Python. By now, I do not have a specific project, but I am looking forward to start one soon. I love learning new things, reading, listening to music and drinking coffee.
+
+## Education
+
+**Centro de Ciencias Genomocas** | UNAM
+
+Undergraduate student | 2021 up to now
+
+## Experience
+
+**In progress**
